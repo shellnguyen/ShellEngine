@@ -1,3 +1,8 @@
+# Directories
+.vs/
+bin/
+int/
+
 # Prerequisites
 *.d
 
@@ -23,8 +28,3 @@
 *.lai
 *.la
 *.a
-
-# Executables
-*.exe
-*.out
-*.app
